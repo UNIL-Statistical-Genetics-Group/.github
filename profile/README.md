@@ -1,6 +1,6 @@
 # Statistical Genetics Group
 
-This is the github organisation for the Statistical Genetics Group, led by Zoltán Kutalik.
+This is the Github organisation for the Statistical Genetics Group, led by Zoltán Kutalik.
 Here, we publish the code for projects that members of the group have performed
 
 The group is part of the Department of Research & Innovation at the Unisanté and affiliated with the Department of Computational Biology, the Swiss Institute of Bioinformatics and with the University of Exeter. We are interested in the development of statistical methodologies in order to decipher the genetic- and causal network architecture of complex human traits. To do so, we combine Genome-Wide Association Studies and various omics data sets.
